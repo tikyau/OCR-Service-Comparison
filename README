@@ -1,0 +1,3 @@
+1. The code is written in python and is shared as a python script, as an IPython notebook and as an HTML page. Please use what works best for you.
+2. There are a few places that needs your inputs like keys for various APIs used or to point to the right path where you have stored your dataset, these places are maked as 'TODO:', please do the needful and only then proceed.
+
